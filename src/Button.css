@@ -1,0 +1,24 @@
+.btn {
+    color: #b7efcd;
+    background-color: #14274e;
+    height: 3rem;
+    width: 5rem;
+    margin: 0.7rem;
+    outline: none;
+    border-radius:6px;
+   
+}
+
+.btn-reset {
+
+    color:#14274e ;
+    background-color:#b7efcd ;
+    height: 3rem;
+    width: 5rem;
+    margin: 0.7rem;
+    outline: none;
+    border-radius:6px;
+    
+   
+
+}
